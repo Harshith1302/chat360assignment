@@ -1,0 +1,11 @@
+2024-05-14T19:28:59.313458500 - INFO - Calculator Service - Successfully added the numbers 1.0 2.0
+2024-05-14T19:29:23.257464100 - ERROR - Calculator Service - Division by zero not possible please change the number
+2024-05-14T19:38:49.900007100 - INFO - Calculator Service - Successfully added the numbers 1.0 2.0
+2024-05-14T19:40:59.673766500 - INFO - Calculator Service - Successfully subtracted the numbers 1.0 2.0
+2024-05-14T19:42:08.163664200 - INFO - Calculator Service - Successfully multiplied the numbers 1.0 2.0
+2024-05-14T19:42:26.291740400 - INFO - Calculator Service - Successfully multiplied the numbers 23.0 2.0
+2024-05-14T19:42:33.334299800 - INFO - Calculator Service - Successfully multiplied the numbers 23.54 2.0
+2024-05-14T19:42:56.089921900 - INFO - Calculator Service - Successfully multiplied the numbers 5.0 2.0
+2024-05-14T19:43:00.315185800 - ERROR - Calculator Service - Division by zero not possible please change the number
+2024-05-14T19:43:07.973903300 - INFO - Calculator Service - Successfully divide the number 5.0 from 1.0
+2024-05-14T19:43:46.043877400 - INFO - Calculator Service - Successfully divide the number 1.0 from 5.0

@@ -1,0 +1,19 @@
+2024-05-14T19:29:05.111394500 - ERROR - Calculator Controller - Required request parameter 'num1' for method parameter type double is not present
+2024-05-14T19:38:56.294851 - ERROR - Calculator Controller - Required request parameter 'num2' for method parameter type double is not present
+2024-05-14T19:39:16.533741 - ERROR - Calculator Controller - Required request parameter 'num1' for method parameter type double is not present
+2024-05-14T19:39:23.963730800 - ERROR - Calculator Controller - Required request parameter 'num1' for method parameter type double is not present
+2024-05-14T19:40:06.585679600 - ERROR - Calculator Controller - Failed to convert value of type 'java.lang.String' to required type 'double'; For input string: "abc"
+2024-05-14T19:40:23.202594900 - ERROR - Calculator Controller - Failed to convert value of type 'java.lang.String' to required type 'double'; For input string: "abc"
+2024-05-14T19:41:13.516699700 - ERROR - Calculator Controller - Required request parameter 'num2' for method parameter type double is not present
+2024-05-14T19:41:22.278562400 - ERROR - Calculator Controller - Required request parameter 'num1' for method parameter type double is not present
+2024-05-14T19:41:26.150113600 - ERROR - Calculator Controller - Required request parameter 'num1' for method parameter type double is not present
+2024-05-14T19:41:37.157165200 - ERROR - Calculator Controller - Failed to convert value of type 'java.lang.String' to required type 'double'; For input string: "abc"
+2024-05-14T19:42:14.006430100 - ERROR - Calculator Controller - Required request parameter 'num2' for method parameter type double is not present
+2024-05-14T19:42:19.484252800 - ERROR - Calculator Controller - Required request parameter 'num1' for method parameter type double is not present
+2024-05-14T19:42:49.340694200 - ERROR - Calculator Controller - Failed to convert value of type 'java.lang.String' to required type 'double'; For input string: "abc"
+2024-05-14T19:43:12.682192100 - ERROR - Calculator Controller - Required request parameter 'num2' for method parameter type double is not present
+2024-05-14T19:43:17.296867100 - ERROR - Calculator Controller - Required request parameter 'num1' for method parameter type double is not present
+2024-05-14T19:43:20.134526 - ERROR - Calculator Controller - Required request parameter 'num1' for method parameter type double is not present
+2024-05-14T19:43:29.855043700 - ERROR - Calculator Controller - Failed to convert value of type 'java.lang.String' to required type 'double'; For input string: "abc"
+2024-05-14T19:43:38.938799200 - ERROR - Calculator Controller - Failed to convert value of type 'java.lang.String' to required type 'double'; For input string: "abc"
+2024-05-14T20:03:28.880780400 - ERROR - Calculator Controller - Required request parameter 'num1' for method parameter type double is not present
